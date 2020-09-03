@@ -1,0 +1,9 @@
+# kite
+output/
+tester/
+
+# editor
+.idea/
+.vscode/
+
+.DS_Store
